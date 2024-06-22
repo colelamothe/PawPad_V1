@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "9aca8c89-643b-4abc-aded-c7b8ee3f258d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 49.53 36.83)
+		(size 106.68 73.66)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "875c790f-b5c7-4115-8a37-8cb33c59bef6")
+		(property "Sheetname" "CPU"
+			(at 49.53 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Overview.kicad_sch"
+			(at 49.53 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PawPad_V1"
+				(path "/9aca8c89-643b-4abc-aded-c7b8ee3f258d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 48.26 128.27)
+		(size 106.68 58.42)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "96898466-fe1e-4db6-a78a-1b1b798b53fa")
+		(property "Sheetname" "MCU_Support"
+			(at 48.26 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU_Support.kicad_sch"
+			(at 48.26 187.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PawPad_V1"
+				(path "/9aca8c89-643b-4abc-aded-c7b8ee3f258d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 38.1)
+		(size 97.79 72.39)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f359e05e-e7ef-451d-9339-d19a0855f257")
+		(property "Sheetname" "USBC_Connection"
+			(at 170.18 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USBC.kicad_sch"
+			(at 170.18 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PawPad_V1"
+				(path "/9aca8c89-643b-4abc-aded-c7b8ee3f258d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
